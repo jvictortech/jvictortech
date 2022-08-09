@@ -3,6 +3,9 @@
 🖥 Técnico em Informática
 🧿 Iniciante em todos os requisitos 
 
+![IMG_2](https://user-images.githubusercontent.com/101750932/183542791-15b5b8c4-7896-4663-8661-578fdb1c51af.jpg)
+
+
 <div align="center">
   <a href="https://github.com/jvictoratlas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictoratlas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
