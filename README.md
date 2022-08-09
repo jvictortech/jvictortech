@@ -3,7 +3,8 @@
 🖥 Técnico em Informática
 🧿 Iniciante em todos os requisitos 
 
-![IMG_2](https://user-images.githubusercontent.com/101750932/183542791-15b5b8c4-7896-4663-8661-578fdb1c51af.jpg)
+![im3](https://user-images.githubusercontent.com/101750932/183733870-2b93df84-573f-4ebb-b255-d529fe5f2601.png)
+
 
 
 <div align="center">
