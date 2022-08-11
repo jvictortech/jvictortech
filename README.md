@@ -1,7 +1,9 @@
-## Olá! Isso mesmo, sou eu o J.Victor!
+## Procurando o que amigo? Ta perdido?..kkkkkk
+
+
 🤓 Graduando em Análise e Desenvolvimento de Sistemas - IFPA
 🖥 Técnico em Informática
-🧿 Iniciante em todos os requisitos 
+🧿 Iniciante mano, então não tem nada de novo aqui 
 
 ![im3](https://user-images.githubusercontent.com/101750932/183733870-2b93df84-573f-4ebb-b255-d529fe5f2601.png)
 
