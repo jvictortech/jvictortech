@@ -1,9 +1,9 @@
-## Procurando o que amigo? Ta perdido?..kkkkkk
+## Oi meu nome é João Victor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
 🤓 Graduando em Análise e Desenvolvimento de Sistemas - IFPA
 🖥 Técnico em Informática
-🧿 Iniciante mano, então não tem nada de novo aqui 
+🧿 Iniciando no mundo da programação 
 
 ![im3](https://user-images.githubusercontent.com/101750932/183733870-2b93df84-573f-4ebb-b255-d529fe5f2601.png)
 
