@@ -6,7 +6,7 @@
 🧿🚀Iniciando no mundo da programação <br/> 
 
 <div align="center">
-  <img width="812" height="350" src="https://user-images.githubusercontent.com/101750932/183733870-2b93df84-573f-4ebb-b255-d529fe5f2601.png"/>
+  <img width="800" height="350" src="https://user-images.githubusercontent.com/101750932/183733870-2b93df84-573f-4ebb-b255-d529fe5f2601.png"/>
                                                                                                                                   
 </div>
 
