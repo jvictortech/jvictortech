@@ -4,10 +4,9 @@
 📚📓Graduando em Análise e Desenvolvimento de Sistemas - IFPA <br/>
 💻🔧Técnico em Informática <br/>
 🧿🚀Iniciando no mundo da programação <br/> 
-
-<div align="center">
-  <img width="800" height="350" src="https://user-images.githubusercontent.com/101750932/183733870-2b93df84-573f-4ebb-b255-d529fe5f2601.png"/>
-                                                                                                                                  
+ 
+ <div align="center">
+   <img = src= "https://user-images.githubusercontent.com/101750932/201713177-e79d8e3f-0e6b-4d68-b37c-8d76e550a2ff.gif" width="800" height="400" />
 </div>
 
 <div align="center">
