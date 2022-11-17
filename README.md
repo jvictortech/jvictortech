@@ -1,4 +1,4 @@
-## Oi meu nome é João Victor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Oi, meu nome é João Victor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
 📚📓Graduando em Análise e Desenvolvimento de Sistemas - IFPA <br/>
