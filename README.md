@@ -18,7 +18,8 @@
 ## Atualmente Estudando:
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt=atlas-python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt=atlas-dart src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img align="center" alt=atlas-flutter src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
   ## Onde me encontrar:
  
