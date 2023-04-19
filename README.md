@@ -21,7 +21,16 @@
 <div style="display: inline_block"><br>
   <img align="center" alt=atlas-dart src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img align="center" alt=atlas-flutter src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
+ 
+## Outras Habilidades:
+ </div>
+<div style="display: inline_block"><br>
+ <img align="center" alt=atlas-git src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+ <img align="center" alt=atlas-windows src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+ <img align="center" alt=atlas-linux src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+ <img align="center" alt=atlas-office src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+ <img align="center" alt=atlas-sql src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ 
   ## Onde me encontrar:
  
 <div> 
