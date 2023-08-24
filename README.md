@@ -19,9 +19,8 @@
 ## Atualmente Estudando:
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt=atlas-dart src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="center" alt=atlas-flutter src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
- 
+  <img align="center" alt=atlas-python src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" width="50" height="50"/>
+
 ## Outras Habilidades:
  </div>
 <div style="display: inline_block"><br>
@@ -29,9 +28,13 @@
  <img align="center" alt=atlas-windows src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
  <img align="center" alt=atlas-linux src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
  <img align="center" alt=atlas-office src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
- <img align="center" alt=atlas-sql src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img align="center" alt=atlas-sql src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+ <img align="center" alt=atlas-github src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+ <img aling="center" alt=atlas-wordpress src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"/>
  
-  ## Onde me encontrar:
+</div>
+
+   ## Clique nos ícones abaixo para me encontrar: :point_down:
  
 <div> 
   <a href="https://www.instagram.com/jvictortech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -41,5 +44,3 @@
   <a href="https://www.tiktok.com/@jvictortech?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 <div/>
   
-  ## Produções em <img align='center' alt=atlas-wordpress src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"/> :
-  Acesse: https://pcsolinformatica.com.br/
